@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a823901c-3e68-4c06-9d1c-6cbce3aa59cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1jom2z4RQu5n0zJkiiRozK9ffe3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a823901c-3e68-4c06-9d1c-6cbce3aa59cc" name="Default Changelist" comment="" />
+      <created>1604478615495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604478615495</updated>
+      <workItem from="1604478616675" duration="23759000" />
+      <workItem from="1604564718502" duration="24887000" />
+      <workItem from="1604602043895" duration="34000" />
+      <workItem from="1604612890712" duration="815000" />
+      <workItem from="1604627285790" duration="68000" />
+      <workItem from="1604651637180" duration="27604000" />
+      <workItem from="1604691492633" duration="3168000" />
+      <workItem from="1604763392045" duration="2831000" />
+      <workItem from="1604776454232" duration="997000" />
+      <workItem from="1604777481564" duration="808000" />
+      <workItem from="1604910903677" duration="34361000" />
+      <workItem from="1604997065316" duration="22372000" />
+      <workItem from="1605041381263" duration="10862000" />
+      <workItem from="1605055226498" duration="253000" />
+      <workItem from="1605055801819" duration="587000" />
+      <workItem from="1605095583375" duration="1815000" />
+      <workItem from="1605097406637" duration="3767000" />
+      <workItem from="1605169557506" duration="982000" />
+      <workItem from="1605191556339" duration="1460000" />
+      <workItem from="1605227737933" duration="11000" />
+      <workItem from="1605351253801" duration="2944000" />
+      <workItem from="1605378418198" duration="1921000" />
+      <workItem from="1605437660020" duration="3293000" />
+      <workItem from="1605518621021" duration="3258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="700" y="376" width="581" height="361" key="#Notifications" timestamp="1604777505047">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="700" y="376" width="581" height="361" key="#Notifications/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1604777505047" />
+    <state x="522" y="203" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604766968519">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="468" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604594772306" />
+    <state x="522" y="203" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1604766968519" />
+    <state x="740" y="287" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605487817647">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604602076079" />
+    <state x="740" y="287" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1605487817647" />
+    <state x="784" y="305" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1604778803589" />
+    <state width="1294" height="246" key="GridCell.Tab.0.bottom" timestamp="1605029875049">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1294" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604655289956" />
+    <state width="1294" height="246" key="GridCell.Tab.0.bottom/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1605029875049" />
+    <state width="1294" height="246" key="GridCell.Tab.0.center" timestamp="1605029875049">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1294" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604655289956" />
+    <state width="1294" height="246" key="GridCell.Tab.0.center/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1605029875049" />
+    <state width="1294" height="246" key="GridCell.Tab.0.left" timestamp="1605029875049">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1294" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604655289956" />
+    <state width="1294" height="246" key="GridCell.Tab.0.left/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1605029875049" />
+    <state width="1294" height="246" key="GridCell.Tab.0.right" timestamp="1605029875049">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1294" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604655289956" />
+    <state width="1294" height="246" key="GridCell.Tab.0.right/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1605029875049" />
+    <state width="276" height="545" key="HiddenNamespacesPopup" timestamp="1604766978062">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="286" height="538" key="HiddenNamespacesPopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604594626832" />
+    <state width="276" height="545" key="HiddenNamespacesPopup/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1604766978062" />
+    <state x="795" y="442" width="319" height="162" key="NewPhpFileDialog" timestamp="1605022517644">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="795" y="442" width="319" height="162" key="NewPhpFileDialog/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1605022517644" />
+    <state x="406" y="194" width="1062" height="737" key="SettingsEditor" timestamp="1605487809725">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="491" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604627348814" />
+    <state x="406" y="194" width="1062" height="737" key="SettingsEditor/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1605487809725" />
+    <state x="463" y="205" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1604777648719" />
+    <state x="808" y="264" width="330" height="511" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1604594718079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="264" width="330" height="511" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604594718079" />
+    <state x="616" y="254" key="run.anything.popup" timestamp="1605023819703">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604576793742" />
+    <state x="616" y="254" key="run.anything.popup/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1605023819703" />
+  </component>
+</project>
